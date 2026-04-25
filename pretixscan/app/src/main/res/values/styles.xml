@@ -3,14 +3,14 @@
     <style name="AppTheme" parent="Theme.Material3.Light">
         <item name="colorPrimary">@color/pretix_brand_light</item>
         <item name="colorPrimaryDark">@color/pretix_brand_dark</item>
-        <item name="colorAccent">@color/pretix_brand_green</item>
+        <item name="colorAccent">@color/badger_gold</item>
         <item name="logo">@drawable/ic_logo</item>
     </style>
 
     <style name="AppTheme.Dialog" parent="Theme.Material3.Light.Dialog">
         <item name="colorPrimary">@color/pretix_brand_light</item>
         <item name="colorPrimaryDark">@color/pretix_brand_dark</item>
-        <item name="colorAccent">@color/pretix_brand_green</item>
+        <item name="colorAccent">@color/badger_gold</item>
         <item name="logo">@drawable/ic_logo</item>
         <item name="android:windowActionBarOverlay">true</item>
         <item name="windowNoTitle">true</item>
@@ -19,13 +19,13 @@
     <style name="Base.AppTheme.NoActionBar" parent="Theme.Material3.Light.NoActionBar">
         <item name="colorPrimary">@color/pretix_brand_light</item>
         <item name="colorPrimaryDark">@color/pretix_brand_dark</item>
-        <item name="colorAccent">@color/pretix_brand_green</item>
+        <item name="colorAccent">@color/badger_gold</item>
     </style>
 
     <style name="Base.AppTheme.NoActionBar.Dark" parent="Theme.Material3.Light.NoActionBar">
         <item name="colorPrimary">@color/pretix_brand_light</item>
         <item name="colorPrimaryDark">@color/pretix_brand_dark</item>
-        <item name="colorAccent">@color/pretix_brand_green</item>
+        <item name="colorAccent">@color/badger_gold</item>
         <item name="logo">@drawable/ic_logo</item>
         <item name="appBarLayoutStyle">@style/Widget.App.AppBarLayout</item>
         <item name="toolbarStyle">@style/Widget.App.Toolbar</item>
@@ -38,7 +38,7 @@
     <style name="AppTheme.Dialog.Animated" parent="Theme.Material3.Light.NoActionBar">
         <item name="colorPrimary">@color/pretix_brand_light</item>
         <item name="colorPrimaryDark">@color/pretix_brand_dark</item>
-        <item name="colorAccent">@color/pretix_brand_green</item>
+        <item name="colorAccent">@color/badger_gold</item>
         <item name="android:windowIsTranslucent">true</item>
         <item name="android:windowBackground">@color/transparent</item>
         <item name="android:backgroundDimEnabled">false</item>

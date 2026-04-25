@@ -19,10 +19,10 @@ apply from: '../libpretixsync-repo/libpretixsync/versions.gradle'
 android {
     namespace = "eu.pretix.pretixscan.droid"
 
-    compileSdk = 36
+    compileSdk = 35
 
     defaultConfig {
-        applicationId "eu.pretix.pretixscan.droid"
+        applicationId "cloud.thebadger.scan"
         minSdk = 21
         targetSdk = 35
         versionCode = 108
@@ -54,7 +54,7 @@ android {
         release {
             storeFile file("../../release.keystore")
             storePassword System.getenv("KSTOREPWD")
-            keyAlias "pretixdroid"
+            keyAlias "thebadger"
             keyPassword System.getenv("KSTOREPWD")
         }
         flavors.each { flavorName, flavorData ->

@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">pretixSCAN</string>
-    <string name="title_activity_main">pretixSCAN</string>
-    <string name="headline_setup">Welcome to pretixSCAN!</string>
+    <string name="app_name">TheBadgerSCAN</string>
+    <string name="title_activity_main">TheBadgerSCAN</string>
+    <string name="headline_setup">Welcome to TheBadgerSCAN!</string>
     <string name="action_sync">Synchronize now</string>
     <string name="progress_syncing_first">Downloading event configuration…</string>
     <string name="progress_syncing">Synchronizing with server…</string>
@@ -39,9 +39,9 @@
     <string name="operation_select_checkinlist">Select Check-in list</string>
     <string name="settings_label_auto_sync">Automatic Synchronization</string>
     <string name="settings_label_orders_sync">Download orders</string>
-    <string name="settings_summary_orders_sync">Without this option, pretixSCAN will not download order data and not be able to scan offline tickets with pretix\'s default settings.</string>
+    <string name="settings_summary_orders_sync">Without this option, TheBadgerSCAN will not download order data and not be able to scan offline tickets with pretix\'s default settings.</string>
     <string name="settings_label_auto_switch">Automatic event selection</string>
-    <string name="settings_summary_auto_switch">With this option, pretixSCAN will ask the server during synchronization if the server suggests switching the app to a different event and check-in list and then switches automatically.</string>
+    <string name="settings_summary_auto_switch">With this option, TheBadgerSCAN will ask the server during synchronization if the server suggests switching the app to a different event and check-in list and then switches automatically.</string>
     <plurals name="sync_status_time_minutes">
         <item quantity="one">synchronized %d minute ago</item>
         <item quantity="other">synchronized %d minutes ago</item>
@@ -69,7 +69,7 @@
     <string name="first_scanned">First scanned: %s</string>
     <string name="datetime_format">%1$tY-%1$tm-%1$td %1$tH:%1$tM</string>
     <string name="ok">OK</string>
-    <string name="welcome_text">pretixSCAN is a event entry app that you can use to validate tickets that you sold through pretix.</string>
+    <string name="welcome_text">TheBadgerSCAN is a event entry app that you can use to validate tickets that you sold through pretix.</string>
     <string name="welcome_disclaimer1">I understand that personal data of attendees of my connected events will be stored on this device and I will secure the device properly.</string>
     <string name="cont">CONTINUE</string>
     <string name="hint_url">URL</string>
@@ -171,7 +171,7 @@
         <item>Once, if not yet printed</item>
         <item>Always</item>
     </string-array>
-    <string name="headline_please_reinstall">Please reinstall pretixSCAN</string>
-    <string name="reinstall_text">Your previous pretixSCAN version was too old and your local data cannot be used for the current version.\n\nPlease clear the storage for the pretixSCAN app or delete and reinstall the app.</string>
+    <string name="headline_please_reinstall">Please reinstall TheBadgerSCAN</string>
+    <string name="reinstall_text">Your previous TheBadgerSCAN version was too old and your local data cannot be used for the current version.\n\nPlease clear the storage for the TheBadgerSCAN app or delete and reinstall the app.</string>
     <string name="reinstall_open_app_settings">Open Android App Settings</string>
 </resources>

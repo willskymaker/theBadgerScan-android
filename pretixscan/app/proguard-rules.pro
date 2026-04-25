@@ -72,3 +72,5 @@
 -dontwarn org.openjsse.javax.net.ssl.SSLSocket
 -dontwarn org.openjsse.net.ssl.OpenJSSE
 -dontwarn sun.security.x509.X509Key
+-dontwarn javax.naming.**
+-dontwarn javax.naming.directory.**
